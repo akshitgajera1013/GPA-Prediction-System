@@ -1,5 +1,7 @@
 # GPA-Prediction-System
 
+Deployment Link :- https://gpa-prediction-system.streamlit.app/
+
 📁Project Structure
 GPA-Prediction-System/
 ├── app.py
