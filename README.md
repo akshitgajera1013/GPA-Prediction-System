@@ -17,8 +17,8 @@ GPA-Prediction-System/
 Machine Learning-Based GPA Prediction System built using K-Nearest Neighbors (KNN) with feature scaling and deployed using Streamlit.
 
 ## 🚀 Project Overview
-AI Student Intelligence is a predictive analytics dashboard that estimates a student's GPA based on academic and behavioral factors.
-The application uses a KNN regression model with StandardScaler preprocessing to deliver accurate predictions with an intuitive SaaS-style UI.
+    AI Student Intelligence is a predictive analytics dashboard that estimates a student's GPA based on academic and behavioral factors.
+    The application uses a KNN regression model with StandardScaler preprocessing to deliver accurate predictions with an intuitive SaaS-style UI.
 
 ## 🧠 Machine Learning Details
 - **Algorithm:** K-Nearest Neighbors (KNN)
@@ -43,22 +43,27 @@ The application uses a KNN regression model with StandardScaler preprocessing to
 - Pickle
 
 ## 📊 Dashboard Features
-- Premium startup-style dark dashboard UI
-- Interactive student profile input panel
-- Real-time GPA prediction
-- Performance classification (Excellent / Good / Risk)
-- Structured analytics overview
+        - Premium startup-style dark dashboard UI
+        - Interactive student profile input panel
+        - Real-time GPA prediction
+        - Performance classification (Excellent / Good / Risk)
+        - Structured analytics overview
+
 
 ## 🛠 Installation
 Clone the repository:
-git clone https://github.com/akshitgajera1013/GPA-Prediction-System.git
-cd  GPA-Prediction-System
+
+        git clone https://github.com/akshitgajera1013/GPA-Prediction-System.git
+        
+        cd  GPA-Prediction-System
 
 Install dependencies:
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 Run the app:
-streamlit run app.py
+
+    streamlit run app.py
 
 👨‍💻 Developed By
 Akshit Gajera
