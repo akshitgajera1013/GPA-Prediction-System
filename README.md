@@ -4,12 +4,13 @@ Deployment Link :- https://gpa-prediction-system.streamlit.app/
 
 📁Project Structure
 GPA-Prediction-System/
-├── app.py
-├── model.pkl
-├── scaler.pkl
-├── requirements.txt
-├── README.md
-├── .gitignore
+
+    ├── app.py
+    ├── model.pkl
+    ├── scaler.pkl
+    ├── requirements.txt
+    ├── README.md
+    ├── .gitignore
 
 # 🎓  GPA-Prediction-System
 
